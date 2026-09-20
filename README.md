@@ -1,4 +1,4 @@
-making MC mods, Discord plugins, and random stuff
+making random stuff
 
 systems engineer for about a year and half now @ ssa contractor
 
