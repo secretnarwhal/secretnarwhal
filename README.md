@@ -1,6 +1,6 @@
 # hi, i'm ryan
 
-systems engineer at springup solutions, mostly remote. on my own time i ship whole products end to end: the client, the backend, billing, deploys, and the occasional bot trained with reinforcement learning. all of it runs on a server i look after myself.
+systems engineer at springup solutions, mostly remote. on my own time i ship whole products end to end. all of it runs on a server i look after myself.
 
 arch + hyprland, nvim larper. portfolio at **[ryandu.dev](https://ryandu.dev)**.
 
